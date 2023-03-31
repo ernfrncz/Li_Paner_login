@@ -16,6 +16,6 @@ function validateForm() {
     } else {
         window.location.replace("Li_Paner_2qProj/index.html");
         history.back();
-        return false;
+        return true;
     }
 }
