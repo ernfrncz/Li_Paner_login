@@ -14,7 +14,7 @@ function validateForm() {
         document.getElementById("log").innerHTML = "Please enter your password.";
         return false;
     } else {
-        window.location.href = "https://ernfrncz.github.io/Li_Paner_login/Li_Paner_2qProj/index.html";
+        window.location.href = "https://ernfrncz.github.io/Li_Paner_2qProj/index.html";
         return true;
     }
 }
