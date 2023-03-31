@@ -13,5 +13,8 @@ function validateForm() {
         console.log("Login error.");
         document.getElementById("log").innerHTML = "Please enter your password.";
         return false;
+    } else {
+        window.open("Li_Paner_2qProj/index.html");
+        return true;
     }
 }
