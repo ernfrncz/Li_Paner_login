@@ -16,6 +16,5 @@ function validateForm() {
     } else {
         window.location.replace("https://ernfrncz.github.io/Li_Paner_2qProj/index.html");
         history.back();
-        return true;
     }
 }
